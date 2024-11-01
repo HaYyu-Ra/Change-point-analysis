@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "streetsidesoftware.code-spell-checker",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "ms-python.black-formatter",
+        "ms-python.flake8",
+        "eamodio.gitlens",
+        "github.vscode-pull-request-github",
+        "visualstudioexptteam.vscodeintellicode"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "python.pythonPath": "${workspaceFolder}/.venv/bin/python",
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": ["--max-line-length=88"],
+    "python.testing.pytestEnabled": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "files.autoSave": "onFocusChange",
+    "notebook.cellToolbarLocation": {
+        "default": "right"
+    },
+    "jupyter.interactiveWindowMode": "single",
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.pytest_cache": true,
+        "**/.ipynb_checkpoints": true
+    }
+}
