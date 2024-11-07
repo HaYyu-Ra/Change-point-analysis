@@ -1,0 +1,14 @@
+/* App.css */
+
+.error-message {
+  color: red;
+  font-weight: bold;
+  margin-top: 20px;
+  white-space: pre-line;
+  /* Preserve new lines */
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
